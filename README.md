@@ -5,7 +5,7 @@ Unfortunately, my inexperienced self was unable to futureproof the fact that `Fi
 
 (1) Segregates client/server data to prevent unwanted client-sided changes from replicating to the server; remotes are used to ensure only developer-allowed changes would be made. As a result, this update reduces the ability for exploiters to alter the game environment for other players. 
 
-This repository README.md is a collection of GIFs that show milestones and random things during my development.
+This repository README.md is a collection of GIFs that show milestones and random things during my development. *Written with fanciness.*
 
 ---
 
@@ -17,15 +17,27 @@ I figured a low-poly base survival game was what I will make. So to start off, I
 
 <p align="center"><img src="https://gyazo.com/521a008da0796b768e9e639d3a6fe114.gif"/></p>
 
-<p align="center"><img src="https://gyazo.com/1d43a638594fd5f50cfde488af317c88.gif"/></p>
+# To bring life
+At a young age I already understood the difference between a good game and a bad one. Gamers are lifeless entities in the physical world, this is an undeniable fact; those who object are merely in denial. We play video games in order to escape reality for even a moment of our life, outcast ourselves from society albeit yearn for some form of interaction with others. With this in mind, a wise developer would then choose to implement artificial beings, NPCs as they are commonly referred to as, in order to satiate even a pitiful fraction of the players emotional void. As such, two beings were introduced: Follower, a model of the player which, as the name suggests, follows you; Slime, a monster whose life was given by me with the intent of ending yours (however fails to do so.)
 
 <p align="center"><img src="https://gyazo.com/83d4e12234fe713b671c3b8dffd142eb.gif"/></p>
+
+### The beginning of the downfall
+Reminiscing on this project made me realize it's own downfall. During these years, I had onced believe that I had limitless time— I was young, with unbounded freedom and shackles which restrain the adults are not yet mine to bear. The low-poly aesthetic was a suitable design choice, however, there arose a conflict between my inner selves. One wanted a minimalistic game, a low-poly to be specific, whereas the other desired for even a subtle touch of realism. My brain was struggling to decide between the two and thus devised a simple solution: the player can choose their experience. As such, I created a settings page.
+
+<p align="center"><img src="https://gyazo.com/1d43a638594fd5f50cfde488af317c88.gif"/></p>
+
+Texturing the grass had arose another problem within my mind: If the creator grants the player the choice to alter their own experience, shouldn't they also be given the ability to change the ambience of it? As such, lighting styles were implemented.
 
 <p align="center"><img src="https://gyazo.com/6889f8858951937bf4b46671e780d7b4.gif"/></p>
 
 <p align="center"><img src="https://gyazo.com/7dd57be862b2a39dba6e2b70c3d38dac.gif"/></p>
 
-Weapons. I like swords. I REALLY liked swords. No survival game is good enough unless it had swords. 
+One may think the following words could only be said by a childish person,
+> Weapons. I like swords. I REALLY liked swords. No survival game is good enough unless it had swords.
+
+As a matter of fact, it was.
+
 <p align="center"><img src="https://gyazo.com/5fcb5b385bcc4d111e436a827cf3ba0d.gif"/></p>
 <p align="center"><img src="https://i.gyazo.com/cdbb400c8671ab0698b685f4009d98b5.gif"/></p>
 <p align="center"><img src="https://gyazo.com/bdf07a5db49a10def053b28df7e0977d.gif"/></p>
