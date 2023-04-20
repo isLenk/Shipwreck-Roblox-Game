@@ -9,15 +9,29 @@ This repository README.md is a collection of GIFs that show milestones and rando
 
 ---
 
-The beginnings... I had loaded up the file with no actual concepts in my mind. The only thought I had at the time was "I want to play a survival game."
+# The Beginnings...
+I had loaded up the file with no actual concepts in my mind. The only thought I had at the time was "I want to play a survival game."
 I was aware of the limitations of both my computer and my skills as a developer. Although I had prior experience to programming, a fullscale game was something that exceeded my abilities. Furthermore, my computer lacked the resources needed to make a graphically intensive game. However, that did not stop me from my path to developing a game I wanted to play.
 
+I figured a low-poly base survival game was what I will make. So to start off, I began by making triangular hills which represented terrain. Then I created a house and a farm which I would later use to test farming mechanics.
+
 <p align="center"><img src="https://gyazo.com/521a008da0796b768e9e639d3a6fe114.gif"/></p>
+
+<p align="center"><img src="https://gyazo.com/1d43a638594fd5f50cfde488af317c88.gif"/></p>
+
+<p align="center"><img src="https://gyazo.com/83d4e12234fe713b671c3b8dffd142eb.gif"/></p>
+
+<p align="center"><img src="https://gyazo.com/6889f8858951937bf4b46671e780d7b4.gif"/></p>
+
+<p align="center"><img src="https://gyazo.com/7dd57be862b2a39dba6e2b70c3d38dac.gif"/></p>
+
+Weapons. I like swords. I REALLY liked swords. No survival game is good enough unless it had swords. 
 <p align="center"><img src="https://gyazo.com/5fcb5b385bcc4d111e436a827cf3ba0d.gif"/></p>
-<p align="center"><img src="https://gyazo.com/cdbb400c8671ab0698b685f4009d98b5.gif"/></p>
+<p align="center"><img src="https://i.gyazo.com/cdbb400c8671ab0698b685f4009d98b5.gif"/></p>
 <p align="center"><img src="https://gyazo.com/bdf07a5db49a10def053b28df7e0977d.gif"/></p>
 <p align="center"><img src="https://gyazo.com/07c7d079ef63a3620638299d07fa9ee5.gif"/></p>
 <p align="center"><img src="https://gyazo.com/218d8557678fe7858c1a452a560bae39.gif"/></p>
+
 <p align="center"><img src="https://gyazo.com/64e86ffaff0c2566f060e5ea26885313.gif"/></p>
 <p align="center"><img src="https://cdn.discordapp.com/attachments/353204316946956298/427452954740523018/Realistic_Lighting_Scheme.PNG"/></p>
 <p align="center"><img src="https://cdn.discordapp.com/attachments/353204316946956298/427453050437763072/Fantasy_Lighting_Scheme.PNG"/></p>
