@@ -1,0 +1,1 @@
+script:FindFirstAncestorOfClass("Model").Head:SetNetworkOwner(game.Players:GetPlayerFromCharacter(script:FindFirstAncestorOfClass("Model")))
