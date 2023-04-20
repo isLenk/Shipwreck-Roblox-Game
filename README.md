@@ -63,7 +63,7 @@ Do you recall the lighting effects mentioned previously in this document? If so,
 
 <p align="center"> Realistic Lighting Scheme<img src="readme_assets/Dev12.PNG"/></p>
 
-<p align="center"> Fantast Lighting Scheme<img src="readme_assets/Dev13.PNG"/></p>
+<p align="center"> Fantasy Lighting Scheme<img src="readme_assets/Dev13.PNG"/></p>
 
 The lighting schemes had heavily influenced the direction of my games design. I want a beautiful game. Let's texture the terrain once more, by adding realistic grass— halt. Let's recall what I had first said right: [here](#restriction1) "my computer lacked the resources needed to make a graphically intensive game." Without proper optimisation, I attempted to use raycasting to fill in 200 grass images per terrain part. Mind you, there is well over two hundred terrain parts in this game. I disliked the notion of simply deleting my efforts, and had thus made this a toggleable option in the aforementioned settings.
 <p align="center"><img src="readme_assets/Dev14.gif"/>
